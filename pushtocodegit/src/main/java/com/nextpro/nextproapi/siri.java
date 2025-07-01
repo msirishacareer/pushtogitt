@@ -8,7 +8,7 @@ public class siri {
 	
 	@GetMapping("/ht")	
 	public String siri(){
-			 return "hello siri you done!";
+			 return "hello siri.";
 		}
 
 	
